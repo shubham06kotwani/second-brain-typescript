@@ -1,0 +1,22 @@
+{
+  "name": "second-brain-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "@types/express": "^5.0.6",
+    "mongoose": "^9.9.3",
+    "typescript": "^7.0.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/node": "^26.2.0",
+    "express": "^5.2.1"
+  }
+}
