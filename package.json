@@ -10,8 +10,11 @@
   "type": "module",
   "dependencies": {
     "@types/express": "^5.0.6",
+    "bcryptjs": "^3.0.3",
+    "lucide-react": "^1.47.0",
     "mongoose": "^9.9.3",
-    "typescript": "^7.0.2"
+    "typescript": "^7.0.2",
+    "zod": "^4.6.5"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
